@@ -1,0 +1,2 @@
+# @name get-user
+GET http://localhost:5000/user
